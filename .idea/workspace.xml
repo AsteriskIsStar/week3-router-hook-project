@@ -2,21 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="208ac080-d71c-4b1b-a6a8-cbd42b558121" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recipe-server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Chef.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ChefDetail.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Recipe.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/RecipeDetail.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/RecipeFind.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/RecipeNews.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe-server.js" beforeDir="false" afterPath="$PROJECT_DIR$/recipe-server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Recipe.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Recipe.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,14 +75,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590798108982</updated>
-      <workItem from="1590798111028" duration="7411000" />
+      <workItem from="1590798111028" duration="10728000" />
     </task>
+    <task id="LOCAL-00001" summary="fd">
+      <created>1590805625470</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590805625470</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fd" />
+    <option name="LAST_COMMIT_MESSAGE" value="fd" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="555" y="109" key="CommitChangelistDialog2" timestamp="1590805624333">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="555" y="109" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1590805624333" />
     <state x="791" y="410" key="Github.ShareDialog" timestamp="1590805525161">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -115,13 +119,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590802681673" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1590805584509">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1590805631052">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1590805584509" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1590804750449">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1590805631052" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1590806053552">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1590804750449" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1590806053552" />
   </component>
 </project>
